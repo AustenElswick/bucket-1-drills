@@ -1,0 +1,12 @@
+   38  rm cli.md
+   39  ls
+   40  mv cli-2.md cli.md
+   41  ls
+   42  cd ..
+   43  rm /notes
+   44  remove notes
+   45  rm notes
+   46  rm notes -r
+   47  rm -r notes
+   48  ls
+   49  history | tail -n 12 > cli_history

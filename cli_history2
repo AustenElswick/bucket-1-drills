@@ -1,0 +1,12 @@
+   76  mv pages/about.html site/about.html
+   77  mv pages/about.html ../about.html
+   78  mv /Users/Documents/bucket-1-drills/site/pages/about.html /Users/Documents/bucket-1-drills/site/about.html
+   79  cd pages
+   80  mv about.html /Users/Documents/bucket-1-drills/site
+   81  ls
+   82  cd ..
+   83  cd ..
+   84  rm site
+   85  rm -r site
+   86  ls
+   87  history | tail -n 12 > cli_history
